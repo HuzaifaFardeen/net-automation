@@ -1,0 +1,14 @@
+api:
+  base_url: "https://semantic-brandea-banao-dc049ed0.koyeb.app"
+  endpoints:
+    login: "/login1"
+    virtual_service: "/api/virtualservice"
+    tenant: "/api/tenant"
+    service_engine: "/api/serviceengine"
+
+user:
+  username: "user_a1d3bc85"
+  password: "StrongPassword123!"
+
+workflow:
+  target_vs_name: "backend-vs-t1r_1000-1"
